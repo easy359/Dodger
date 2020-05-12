@@ -1,5 +1,5 @@
 # Dodger
 
-Game created for fun and to practice for Ludum Dare.
+A game I created for fun to help me practice for Ludum Dare.
 
-Created in 2015.
+Created in 2015 in 24 hours.
