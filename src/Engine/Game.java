@@ -2,7 +2,7 @@ package Engine;
 
 public interface Game {
 
-	public void update();
+    public void update();
 
-	public int[] render();
+    public int[] render();
 }
